@@ -1,4 +1,5 @@
 Sales analysis of computer products.
+
 Analysis and performance of Sales Team 125 in the year 2020.
 - There are 4 stores, one in each state, with one salesperson responsible for each store.
 - I created 2 DAX measures: "Average Products per Year" and "Total Products Sold".
