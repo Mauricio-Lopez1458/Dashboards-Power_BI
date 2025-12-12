@@ -1,3 +1,5 @@
+*This document is also available in English (README.en.md)
+
 VAREJO DE ROUPAS
 
 Dataset extraído da plataforma Kaggle. 
