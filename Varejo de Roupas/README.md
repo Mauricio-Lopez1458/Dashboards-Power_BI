@@ -1,4 +1,4 @@
-*This document is also available in English (README.en.md)
+*This document is also available in English (https://github.com/Mauricio-Lopez1458/Dashboards-Power_BI/blob/main/Varejo%20de%20Roupas/README.en.md)
 
 VAREJO DE ROUPAS
 
